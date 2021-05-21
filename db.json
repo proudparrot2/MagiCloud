@@ -1,0 +1,17 @@
+{
+    "cloud.png": {
+        "name": "cloud.png",
+        "type": "image/png",
+        "size": 4374
+    },
+    "1-cloud.png": {
+        "name": "1-cloud.png",
+        "type": "image/png",
+        "size": 4374
+    },
+    "sample.pdf": {
+        "name": "sample.pdf",
+        "type": "application/pdf",
+        "size": 1702
+    }
+}
